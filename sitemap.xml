@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://escort-international.nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://escort-international.nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://escort-international.nl/en/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/over.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://escort-international.nl/over.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://escort-international.nl/en/about.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/werkwijze.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://escort-international.nl/werkwijze.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://escort-international.nl/en/how-it-works.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/veelgestelde-vragen.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://escort-international.nl/veelgestelde-vragen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://escort-international.nl/en/faq.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://escort-international.nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://escort-international.nl/en/contact.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://escort-international.nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://escort-international.nl/en/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/en/about.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/en/how-it-works.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/en/faq.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://escort-international.nl/en/contact.html</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>
