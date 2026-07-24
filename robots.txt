@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /privacybeleid.html
+Disallow: /cookiebeleid.html
+Disallow: /en/privacy.html
+Disallow: /en/cookies.html
+
+Sitemap: https://escort-international.nl/sitemap.xml
